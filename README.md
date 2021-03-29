@@ -4,8 +4,7 @@
 ```javascript
 const aboutMe = {
    name: "Md Rahim Iqbal",
-   pronouns: "he" | "him",
-   code: [Javascript, Golang, Typescript, HTML, CSS, C, C++, Java],
+   code: [Javascript, Golang, Typescript, C, C++, Java],
    technologies: {
       frontEnd: {
          js: ["Angular", "React", "Ionic"],
@@ -13,7 +12,7 @@ const aboutMe = {
       },
       backEnd: {
          js: ["Node", "Express"],
-         golang: ["Gin","Django"]
+         golang: ["Gin"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
    },
