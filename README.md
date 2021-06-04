@@ -14,7 +14,7 @@ const aboutMe = {
          js: ["Node", "Express"],
          golang: ["Gin"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
+      databases: ["MongoDB", "Postgres"],
    },
    challenge: "I'm working towards being able to run a marathon.",
 };
