@@ -12,4 +12,4 @@ I am a software engineer with several years of experience and a background in co
 
 <img  src="https://github-readme-stats.vercel.app/api?username=superiqbal7&count_private=true&show_icons=true&include_all_commits=true"/>
 
-I am open to collaborating on software projects and social welfare organizations and can be reached at mdrahimiqbal7@gmail.com. Let's connect and see how we can work together to create something great!
+I am open to collaborating on software projects and social welfare organizations. Let's connect on linkedin and see how we can work together to create something great!
