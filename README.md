@@ -1,22 +1,15 @@
 ### Hi there 👋
 
+I'm Iqbal, your friendly neighborhood 🥑 at [@Brain Station 23](https://brainstation-23.com). 😄
 
-```javascript
-const aboutMe = {
-   name: "Md Rahim Iqbal",
-   code: [Javascript, Golang, Typescript, C, C++, Java],
-   technologies: {
-      frontEnd: {
-         js: ["Angular", "React", "Ionic"],
-         css: ["Angular Material", "Materialize", "Bootstrap", "Material Design", "Tailwind UI"]
-      },
-      backEnd: {
-         js: ["Node", "Express"],
-         golang: ["Gin"]
-      },
-      databases: ["MongoDB", "Postgres"],
-   },
-   challenge: "I'm working towards being able to run a marathon.",
-};
-```
-<img  src="https://github-readme-stats.vercel.app/api?username=superiqbal7&&show_icons=true&theme=radical&count_private=true"/>
+I am a software engineer with several years of experience and a background in competitive programming. JavaScript is my main language. I've been creating full-stack JavaScript software for the last few years. I started fiddling with distributed systems, DevOps and Cloud.
+
+- 🔭 Currently working on a few open-source Node.js projects
+- 🌱 Currently learning anything and everything about Node.js, DevOps, and Cloud
+- 👯 Looking to collaborate on anything cool and fun in the open-source Node.js world and cloud native solutions
+- 💬 Ask me about anything :smile:
+- 📫 [Find me on Linkedin](https://www.linkedin.com/in/superiqbal7/)
+
+<img  src="https://github-readme-stats.vercel.app/api?username=superiqbal7&count_private=true&show_icons=true&include_all_commits=true"/>
+
+I am open to collaborating on software projects and social welfare organizations and can be reached at mdrahimiqbal7@gmail.com. Let's connect and see how we can work together to create something great!
