@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Iqbal, your friendly neighborhood 🥑 at Craftsmen. 😄
+I'm Iqbal, your friendly neighborhood 🥑. 😄
 
 I am a software engineer with several years of experience and a background in competitive programming. JavaScript is my main language. I've been creating full-stack JavaScript software for the last few years. I started fiddling with distributed systems, DevOps and Cloud.
 
