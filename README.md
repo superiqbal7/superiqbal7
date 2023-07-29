@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25px">
 
 I'm Iqbal, your friendly neighborhood 🥑. 😄
 
 I am a software engineer with several years of experience and a background in competitive programming. JavaScript is my main language. I've been creating full-stack JavaScript software for the last few years. I started fiddling with distributed systems, DevOps and Cloud.
 
-- 🔭 Currently working on a few open-source Node.js projects
+- 🔭 Currently working on some open-source Node.js projects
 - 🌱 Currently learning anything and everything about Node.js, DevOps, and Cloud
 - 👯 Looking to collaborate on anything cool and fun in the open-source Node.js world and cloud native solutions
 - 💬 Ask me about anything :smile:
