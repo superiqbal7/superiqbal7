@@ -2,7 +2,7 @@
 
 I'm Iqbal, your friendly neighborhood 🥑. 😄
 
-I am a software engineer with several years of experience and a background in competitive programming. JavaScript is my main language. I've been creating full-stack JavaScript software for the last few years. I started fiddling with distributed systems, DevOps and Cloud.
+I am a software engineer with several years of experience working with a variety of languages and technologies, especially in the web stack, and a background in competitive programming. JavaScript is my main language. I've been designing and building  backend services, cloud native solutions and web applications and also fiddling with Distributed systems, Cloud, DevOps and Kubernetes.
 
 - 🔭 Currently working on some open-source Node.js projects
 - 🌱 Currently learning anything and everything about Node.js, DevOps, and Cloud
