@@ -10,6 +10,4 @@ I am a software engineer with several years of experience working with a variety
 - 💬 Ask me about anything :smile:
 - 📫 [Find me on Linkedin](https://www.linkedin.com/in/superiqbal7/)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=superiqbal7&count_private=true&show_icons=true&include_all_commits=true"/>
-
 I am open to collaborating on software projects and social welfare organizations. Let's connect on [linkedin](https://www.linkedin.com/in/superiqbal7/) and see how we can work together to create something great!
